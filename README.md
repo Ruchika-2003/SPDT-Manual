@@ -33,7 +33,8 @@ System level dependencies
         
 ## How to use the tool ?
 1. ssh into the plagcheck by entering your credentials
-![image](https://github.com/user-attachments/assets/cacfd55d-c3c5-42dd-849b-61b767fdd16e)
+![SPDT Screenshot](https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp1.png)
+
 2. Enter the spdt directory where the tool is present (Make sure that the submissions that you want to check are present in the same directory where your tool is present)
 3. Run the command below to use the tool
 
@@ -51,11 +52,13 @@ System level dependencies
 Below are some expectations with respect to the timings and other factors while running the tool on submissions :
 
 1. For files :
-<img width="1338" height="491" alt="image" src="https://github.com/user-attachments/assets/703d2541-2533-4066-b175-b94b30b13672" />
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp2.png" width="1338" height="491" />
+
 
 Opening the html file
 
-<img width="1821" height="503" alt="image" src="https://github.com/user-attachments/assets/3c5a7a5a-1918-49c0-8011-bcddf712e4b9" />
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp3.png" width="1821" height="503" />
+
 
 
 - Time required :
@@ -68,13 +71,15 @@ For comparing two small (20-30 LOC) .cpp files time required is lesser than 1s.
 The output will be saved in a designated directory and will include both a .txt and a .html file, which can be viewed to analyze the results. Additionally, you can query the output based on your preferences for more specific insights.
 
 2. For directories :
-<img width="800" height="596" alt="image" src="https://github.com/user-attachments/assets/61eefcf8-231e-42fa-8e84-05597e95087f" />
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp4.png" width="800" height="596" />
+
 
 On opening the html file :
 
 
-<img width="800" height="792" alt="image" src="https://github.com/user-attachments/assets/6de3fc46-0c6d-4913-84a8-1941958a44e6" />
-<img width="800" height="431" alt="image" src="https://github.com/user-attachments/assets/20c598f5-6f01-44c0-8051-3c30d5854aab" />
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp5.png" width="800" height="792" />
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp6.png" width="800" height="431" />
+
 
 
 - Time required :
@@ -88,12 +93,12 @@ The output will be saved in a designated directory and will include both a .txt 
 
 
 3. For a single directory :
-<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/9aaf3823-7ac1-476e-8966-8531dcc169c5" />
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp7.png" width="800" height="700" />
 
 On opening html file :
 
-<img width="800" height="811" alt="image" src="https://github.com/user-attachments/assets/8b5cda86-5233-4bbb-87c5-c1139080a7fd" />
-<img width="800" height="857" alt="image" src="https://github.com/user-attachments/assets/c1950bec-c81b-43c3-ba1a-84ccc529e299" />
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp8.png" width="800" height="811" />
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp9.png" width="800" height="857" />
 
 - Time required : For comparing a submission with 10 groups it takes about 2 minutes.
   
@@ -105,16 +110,16 @@ The output will be saved in a designated directory and will include both a .txt 
 
 
 ## Querying with single directory outputs :
-<img width="800" height="718" alt="image" src="https://github.com/user-attachments/assets/c4d780b5-9d5a-45bb-b014-3925bcd9a017" />
 
-<img width="800" height="480" alt="image" src="https://github.com/user-attachments/assets/32083369-0fff-467e-8746-dfecd5759960" />
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp10.png" width="800" height="718" />
 
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp11.png" width="800" height="480" />
 
 
 Opening the saved .csv file (Stored the output of last performed query)
 
-<img width="800" height="130" alt="image" src="https://github.com/user-attachments/assets/fa7355b6-f685-4135-8824-c17c9c93c8f0" />
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/905144b5-78b1-49e7-a598-5f6538be7f10" />
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp12.png" width="800" height="130" />
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp13.png" width="800" height="400" />
 
 
 ## Checking visual differences :
@@ -123,27 +128,30 @@ Use the link below :
 http://cs316.cse.iitb.ac.in/spdt_check/
 
 Go to the output directory for which you want to see the visual difference :
-<img width="800" height="743" alt="image" src="https://github.com/user-attachments/assets/63ad2309-8b4e-4ecf-aeed-9442f32dfe5c" />
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp14.png" width="800" height="743" />
+
 
 Open the combined output to get both the tool and moss's output together :
 
-<img width="800" height="592" alt="image" src="https://github.com/user-attachments/assets/b0b5c8c6-56f6-4eab-a071-1a4d3056e870" />
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp15.png" width="800" height="592" />
+
 
 On opening the html file :
 
-<img width="800" height="675" alt="image" src="https://github.com/user-attachments/assets/6d6bc252-3104-4a0d-9c1f-cd8da2169e76" />
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp16.png" width="800" height="675" />
 
-<img width="800" height="430" alt="image" src="https://github.com/user-attachments/assets/9ba1f385-6ddb-4824-baa4-ac81fb42b506" />
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp17.png" width="800" height="430" />
 
 Opening the visual difference link :
 
-<img width="800" height="860" alt="image" src="https://github.com/user-attachments/assets/e08bc7ca-0360-498a-8041-dabdb2b456be" />
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp18.png" width="800" height="860" />
+
 
 You can view the differences between the compared code files, with syntax-based changes highlighted. To better understand the meaning of each color used in the highlights, please refer to the legend below.
 
 
 
-<img width="220" height="215" alt="image" src="https://github.com/user-attachments/assets/0068455b-3113-4288-813d-70a6fc4c1f21" />
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp19.jpg" width="220" height="215" />
 
 
 ## What does the tool not do ?
@@ -171,7 +179,7 @@ You can view the differences between the compared code files, with syntax-based 
 ## What can go wrong ?
 
 - Sometimes MOSS fails due to connectivity issues and gives error like below
-![moss_error](https://github.com/user-attachments/assets/ba4639b5-52fc-4c74-ab4e-5e6e640d5cbf)
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp20.png" width="800" height="400" alt="moss_error" />
 
 In this case we must wait for a while until the error gets resolved by itself
 
@@ -214,7 +222,8 @@ https://github.com/GumTreeDiff/gumtree
       export PATH=$PATH:/home/plagcheck/spdt/gumtree/dist/build/install/gumtree/bin
 
 - Now test by typing gumtree in your terminal. It should give output like:
-  <img width="776" height="495" alt="image" src="https://github.com/user-attachments/assets/cd0122bd-6b3b-4a04-bb20-6693975267de" />
+<img width="776" height="495" alt="image" src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp21.png" />
+
 
 ### 2. srcml - Requirement for obtaining visual differences
 
