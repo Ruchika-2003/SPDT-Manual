@@ -222,7 +222,7 @@ https://github.com/GumTreeDiff/gumtree
       export PATH=$PATH:/home/plagcheck/spdt/gumtree/dist/build/install/gumtree/bin
 
 - Now test by typing gumtree in your terminal. It should give output like:
-<img width="776" height="495" alt="image" src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp21.png" />
+<img width="600" height="360" alt="image" src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp21.png" />
 
 
 ### 2. srcml - Requirement for obtaining visual differences
