@@ -179,7 +179,7 @@ You can view the differences between the compared code files, with syntax-based 
 ## What can go wrong ?
 
 - Sometimes MOSS fails due to connectivity issues and gives error like below
-<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp20.png" width="800" height="400" alt="moss_error" />
+<img src="https://raw.githubusercontent.com/Ruchika-2003/SPDT-Manual/main/images/sp20.jpg" width="800" height="400" alt="moss_error" />
 
 In this case we must wait for a while until the error gets resolved by itself
 
